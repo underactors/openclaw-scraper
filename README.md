@@ -1,4 +1,4 @@
-# RUGGTECH Marketing Manager
+#  Marketing Manager
 
 AI-powered marketing system that runs 4 product lines across 6 international regions with autonomous ad creation, optimization, and reporting via Telegram.
 
