@@ -26,3 +26,7 @@ I'm mainly using it to test scraping techniques and learn more about building cr
 Contributing
 
 If you want to improve something or add support for another platform, feel free to open a pull request.
+
+nstall dependencies:
+
+pip install -r requirements.txt
