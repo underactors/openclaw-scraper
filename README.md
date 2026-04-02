@@ -132,4 +132,4 @@ Only Trinidad is active by default. Enable others in regions.json when ready.
 | Apify (TikTok scraping) | $5 |
 | **Total (TT launch)** | **$58-75** |
 
-## Built by Davon Cudjoe | RUGGTECH | Couva, Trinidad
+## Built by UNDERACTORS|
