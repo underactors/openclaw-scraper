@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/
+output/
+*.tar.gz
+.venv/
+node_modules/
