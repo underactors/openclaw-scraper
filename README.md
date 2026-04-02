@@ -17,3 +17,12 @@ Python
 Requests / HTTP clients
 HTML parsing tools (like BeautifulSoup or similar)
 JSON for data storage
+
+Notes
+
+This project is still a work in progress.
+I'm mainly using it to test scraping techniques and learn more about building crawlers and automation tools.
+
+Contributing
+
+If you want to improve something or add support for another platform, feel free to open a pull request.
